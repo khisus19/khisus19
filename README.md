@@ -21,7 +21,6 @@
 <hr>
 <h2>🧰Skills and technologies:</h2>
 <p>
-<a>
 <img src="./assets/javascript-colored.svg" width="35px" alt="JavaScript" />
 <img src="./assets/react-logo.svg" width="35px" alt="React" />
 <img src="./assets/Sass_logo.svg" width="35px" alt="React" />
@@ -34,7 +33,6 @@
 <img src="./assets/illustrator-2019.svg" width="35px" alt="illustrator" />
 <img src="./assets/photoshop-logo.svg" width="35px" alt="photoshop" />
 <img src="./assets/LESS-logo.svg" width="35px" alt="Less" />
-</a>
 </p>
 <hr>
 

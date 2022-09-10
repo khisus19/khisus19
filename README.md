@@ -44,7 +44,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-khisus19-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/khisus19)](https://www.instagram.com/khisus19) 
 <hr>
 
-<h2>Stats:</h2>
+<h2>📈Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=khisus19" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khisus19&theme=vue" />
 

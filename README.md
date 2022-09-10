@@ -20,8 +20,9 @@
 
 <hr>
 <h2>🧰Skills and technologies:</h2>
-<img src="./assets/javascript-colored.svg" width="35px" display="inline" alt="JavaScript" />
-<img src="./assets/react-logo.svg" width="35px" display="inline" alt="React" />
+<a>
+<img src="./assets/javascript-colored.svg" width="35px" alt="JavaScript" />
+<img src="./assets/react-logo.svg" width="35px" alt="React" />
 <img src="./assets/Sass_logo.svg" width="35px" alt="React" />
 <img src="./assets/html5-colored.svg" width="35px" alt="HTML" />
 <img src="./assets/css3-colored.svg" width="35px" alt="CSS" />
@@ -32,6 +33,7 @@
 <img src="./assets/illustrator-2019.svg" width="35px" alt="illustrator" />
 <img src="./assets/photoshop-logo.svg" width="35px" alt="photoshop" />
 <img src="./assets/LESS-logo.svg" width="35px" alt="Less" />
+</a>
 <hr>
 
 <h2>📱 Social Media </h2>

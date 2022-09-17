@@ -18,7 +18,6 @@
   If you got this far make sure to contact me. I am always available for new experiences in this wonderful world of technology.
 </details>
 
-<hr>
 <h2>🧰Skills and technologies:</h2>
 <p>
 <img src="./assets/javascript-colored.svg" width="35px" alt="JavaScript" />
@@ -34,7 +33,6 @@
 <img src="./assets/photoshop-logo.svg" width="35px" alt="photoshop" />
 <img src="./assets/LESS-logo.svg" width="35px" alt="Less" />
 </p>
-<hr>
 
 <h2>📱 Social Media </h2>
 
@@ -42,7 +40,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-khisus19-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khisus19/)](https://www.linkedin.com/in/khisus19/) 
 [![Twitter Badge](https://img.shields.io/badge/khisus19-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khisus19)](https://twitter.com/khisus19) 
 [![Instagram Badge](https://img.shields.io/badge/-khisus19-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/khisus19)](https://www.instagram.com/khisus19) 
-<hr>
 
 <h2>📈Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=khisus19" />
